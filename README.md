@@ -19,9 +19,11 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 ### Screenshots:
 - Windows installation page
+
 ![alt text](image.png) 
 
 - Windows installed in my system
+
 ![alt text](image-1.png)
 
 ## 2. Install a Text Editor or Integrated Development Environment (IDE):
@@ -37,6 +39,7 @@ This assignment aims to familiarize you with the tools and configurations necess
      - Accept the agreement.
      - Choose the installation location.
      - Select additional tasks (create a desktop icon, add to PATH, etc.).
+
      ![alt text](image-3.png)
 
 - Complete the installation and launch Visual Studio Code.
@@ -58,6 +61,7 @@ This assignment aims to familiarize you with the tools and configurations necess
      ![alt text](image-6.png)
 
 - Complete the installation.
+
 ![alt text](image-7.png)
 
 - Open Git Bash or Command Prompt.
@@ -91,6 +95,7 @@ git remote add origin <your-repository-url>
 git push -u origin master
 ```
 - Screenshot of repo created with necessary files
+
 ![alt text](image-17.png)
 
 
@@ -102,6 +107,7 @@ git push -u origin master
 ![alt text](image-10.png)
 
 - Run the installer python-<version>.exe and ensure "Add Python to PATH" is checked.
+
 ![alt text](image-11.png)
 
 - Click "Install Now" and follow the prompts to complete the installation.
@@ -110,6 +116,7 @@ Verify the installation by running:
 ```
 python --version
 ```
+
 ![alt text](image-12.png)
 
 ## 5. Install Package Managers:
@@ -128,6 +135,7 @@ pip --version
 - Visit the MySQL download page.
 
 - Download and run the installer mysql-installer-community-<version>.msi.
+
 ![alt text](image-14.png)
 
 - Follow the setup wizard:
@@ -166,7 +174,7 @@ During the setup process, a few challenges were encountered, such as installing 
 ### Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary. -> Done
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore). -> Done
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
+- A reflection on the challenges faced during setup and strategies employed to overcome them. -> Done
 
 ## Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
